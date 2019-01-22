@@ -1,0 +1,14 @@
+{
+	"category" : "Reflection-Complete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "on 3/28/2006 15:56",
+	"instvars" : [
+		 ],
+	"name" : "HaltDemo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

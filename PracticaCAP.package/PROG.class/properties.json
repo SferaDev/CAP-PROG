@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AlexisRico 1/15/2019 12:18",
+	"super" : "Object",
+	"category" : "PracticaCAP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"finalDestination",
+		"entryPoint"
+	],
+	"name" : "PROG",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"category" : "Reflection-Complete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AnonymousObjectTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
